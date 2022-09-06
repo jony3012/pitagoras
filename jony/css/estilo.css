@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 255, 255);
+    
+    
+    }
+    header{
+        border: 0;
+        background-color: rgb(90, 48, 48);
+        padding: 2;
+        color: rgb(255, 255, 255);
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    .container{
+    margin: auto;
+    margin-top: 1rem;
+    max-width: 50%;
+    background-color: rgba (45, 172, 29, 0.521);
+    padding: 1.5rem;
+    display: flex;
+    
+    }
